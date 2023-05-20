@@ -1,4 +1,4 @@
-# FaaS based Drug Automation for Pharma
+# Drug Automation for Pharma using QR
 
 # API functionality with UI
 
